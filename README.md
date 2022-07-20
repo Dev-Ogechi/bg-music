@@ -1,2 +1,7 @@
-# bg-music
-A website feature - Background music in a website using html5 audio tag and jquery play and pause function. Has a fade in / fade out button effect.
+## Background Music
+
+A website feature whereby a user can play of pause music :dancer:
+
+### Languages 
+- Html5
+- jQuery - for the play and pause function & the fade in / fade out button effect.
